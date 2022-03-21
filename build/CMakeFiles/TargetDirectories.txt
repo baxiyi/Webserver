@@ -1,0 +1,3 @@
+/data2/mzw/webserver/build/CMakeFiles/edit_cache.dir
+/data2/mzw/webserver/build/CMakeFiles/webserver.dir
+/data2/mzw/webserver/build/CMakeFiles/rebuild_cache.dir
