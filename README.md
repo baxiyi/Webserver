@@ -36,7 +36,7 @@ cd ../
 ./webbench-1.5/webbench -c 10000 -t 10 http://ip:port/
 ```
 
-![压力测试](/Users/mazhiwei/Desktop/webserver/压力测试.png)
+![压力测试](压力测试.png)
 
 测试环境: Ubuntu: 16.04
 
